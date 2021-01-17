@@ -1,4 +1,4 @@
-print("Merhaba, Dünya!")
+print("Merhaba, Dünya!") # ekrana yazdırıyoruz..
 
 Toplam = 0
 DersSaati = 3
